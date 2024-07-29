@@ -66,7 +66,7 @@
   Aproveite para jogar um pouco. Desafio você a fazer uma speedrun abaixo de 3 min e meio até a cena de vitória do jogo sem tomar dano. Dica: Ouro!  
 
 <div align="center">
-    <img width="80%" title="GIF mostrando funcionalidade do zoom da atividade 2" src="https://github.com/user-attachments/assets/8f488983-a172-4a27-a134-a651d8e23273"/>
+    <img width="80%" title="OURO! Consegue fazer a speedrun?" src="https://github.com/user-attachments/assets/8f488983-a172-4a27-a134-a651d8e23273"/>
 <div>
 
 <br>
@@ -77,3 +77,5 @@
   https://crusenho.itch.io/  
   ### Assets do jogo:  
   https://crusenho.itch.io/beriesadventureseaside/  
+
+OBS.: Infelizmente, são muitos arquivos do jogo. Não consigo anexá-los aqui, mas deixarei um executável para instalar e jogar! 📲 🎮
