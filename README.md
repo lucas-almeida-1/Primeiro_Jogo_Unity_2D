@@ -78,4 +78,4 @@
   ### Assets do jogo:  
   https://crusenho.itch.io/beriesadventureseaside/  
 
-OBS.: Infelizmente, são muitos arquivos do jogo. Não consigo anexá-los aqui, mas deixarei um executável para instalar e jogar! 📲 🎮
+OBS.: Infelizmente, são muitos arquivos do jogo. Não consigo anexá-los aqui, mas deixei um executável para instalar e jogar! 📲 🎮
