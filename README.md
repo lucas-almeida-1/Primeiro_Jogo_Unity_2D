@@ -10,19 +10,19 @@
 	Para isso, no Script:  
  
 <div align="center">
-    <img width="80%" title="1º Fragmento de código da atividade 1" src="https://github.com/user-attachments/assets/f98f9578-65a6-4fcc-a370-eb6e577418ed"/>
+    <img width="80%" title="1º Fragmento de código da atividade 1" src="https://github.com/user-attachments/assets/bf99154d-dda0-4545-a608-8e07ca090ea2"/>
 <div>
 
 <br>
 
 <div align="center">
-    <img width="80%" title="2º Fragmento de código da atividade 1" src="https://github.com/user-attachments/assets/204eeced-c364-4302-9527-f8358d183a0f"/>
+    <img width="80%" title="2º Fragmento de código da atividade 1" src="https://github.com/user-attachments/assets/502fda83-370f-449d-8640-4beddde4c11b"/>
 <div>
 
 <br>
 
 <div align="center">
-    <img width="80%" title="3º Fragmento de código da atividade 1" src="https://github.com/user-attachments/assets/3ee04b79-860d-4f82-8b8e-2dad4a0ea515"/>
+    <img width="80%" title="3º Fragmento de código da atividade 1" src="https://github.com/user-attachments/assets/e7a1f377-3a76-43a5-9ee8-bcace83939f5"/>
 <div>
 
 <br>
@@ -32,12 +32,17 @@
   Para isso, no script:  
 
 <div align="center">
-    <img width="80%" title="Fragmento de código da atividade 2" src="https://github.com/user-attachments/assets/7284ded5-a2c4-4075-95a7-8e54f6d0df0d"/>
+    <img width="80%" title="Fragmento de código da atividade 2" src="https://github.com/user-attachments/assets/8df69e0a-14f2-4cc5-a482-13aae9834838"/>
 <div>
+
+  Temos uma condição que verifica o duplo toque e através da diferença de distância entre os dedos, ajustamos o zoom da câmera, respeitando os limites de Zoom que já estava definido como mínimo e máximo.
 
 <br>
 
-  Temos uma condição que verifica o duplo toque e através da diferença de distância entre os dedos, ajustamos o zoom da câmera, respeitando os limites de Zoom que já estava definido como mínimo e máximo.  
+<div align="center">
+    <img width="80%" title="Fragmento de código da atividade 2" src="https://github.com/user-attachments/assets/e03ab3fa-847f-49ca-bdda-184723b9bbb3"/>
+<div>
+
   Caso a condição do toque duplo fosse falsa, verificamos o toque único. Se forem dois cliques na tela de toque único, definimos o zoom da câmera para o zoom padrão.  
 
 <br>
